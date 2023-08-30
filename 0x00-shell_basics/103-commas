@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --format=comma --file-type -a -FB | sort
+ls --format=comma --file-type -a -B | sort
